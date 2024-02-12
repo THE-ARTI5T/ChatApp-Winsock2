@@ -31,7 +31,8 @@ This is a simple multi-client chat application implemented in C++ using Winsock2
    - Start chatting with other connected clients.
 
 ## VIDEO DEMO
-### Link : https://drive.google.com/file/d/1P08U5dREFQ6iodNvWY8q7vrS0TDdlrWm/view?usp=sharing
+### Youtube Link : https://youtu.be/IJ8G7lp5dJk
+### Drive Link : https://drive.google.com/file/d/1P08U5dREFQ6iodNvWY8q7vrS0TDdlrWm/view?usp=sharing
 
 ## Screenshot
 ![ChatApp-Winsock](https://github.com/THE-ARTI5T/ChatApp-Winsock2/assets/103200040/3e8d6cd4-71ec-4695-a424-4bd448d0678d)
